@@ -17,6 +17,8 @@ object main {
     // Run Class Example
     val class_object = new ClassExample(creator="Ran", purpose = "introduce my self to people for the first time")
     class_object.greet()
+    val type_name = class_object.get_type_name()
+    println(type_name)
 
     // Run Case Class Example
     val point_1 = Point(1, 2)
