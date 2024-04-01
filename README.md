@@ -13,7 +13,7 @@ To get started with the Scala Onboarding Tutorials, follow these steps:
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
    ```
-   git clone [https://github.com/your-username/scala-onboarding-tutorials.git](https://github.com/emunaran/Scala-Onboarding-Tutorials.git)
+   git clone https://github.com/your-username/scala-onboarding-tutorials.git
    ```
 
 2. **Explore the Tutorials**: Navigate through the tutorials provided in the repository. The tutorials are organized in a structured manner, starting from basic concepts and gradually advancing to more complex topics.
