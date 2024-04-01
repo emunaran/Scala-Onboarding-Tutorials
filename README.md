@@ -44,7 +44,7 @@ Contributions to the Scala Onboarding Tutorials repository are welcome! If you h
 
 ## License
 
-The content of this repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+The content of this repository is licensed under the MIT License. See the [LICENSE](https://opensource.org/license/mit) file for details.
 
 ## Feedback
 
