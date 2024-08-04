@@ -24,7 +24,7 @@ To get started with the Scala Onboarding Tutorials, follow these steps:
 
 ## Contents
 
-The Scala Onboarding Tutorials cover a wide range of topics, including but not limited to:
+The Scala Onboarding Tutorials cover a wide range of topics, including:
 
 - Introduction to Scala syntax and basic concepts
 - Variables, data types, and operators
